@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viktartolstsik" alt="viktartolstsik" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET, React, Next.JS**
+- 🌱 I’m currently learning **ASP.NET, .NET Core, React, Next.JS**
 
 - 📫 How to reach me **viktor.tolstik.96@gmail.com**
 
