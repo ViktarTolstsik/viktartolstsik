@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Viktar</h1>
-<h3 align="center">Aspiring software developer from Belarus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktartolstsik&label=Profile%20views&color=0e75b6&style=flat" alt="viktartolstsik" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viktartolstsik" alt="viktartolstsik" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET, .NET Core, React, Next.JS**
-
 - 📫 How to reach me **viktor.tolstik.96@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/viktar-tolstsik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viktar-tolstsik" height="30" width="40" /></a>
-<a href="https://instagram.com/fuzzyw0lf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fuzzyw0lf" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
